@@ -1,0 +1,2 @@
+C:\Users\DELL\Desktop\GameUnity\endless-runner-game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\GameUnity\endless-runner-game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
